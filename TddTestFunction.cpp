@@ -1,4 +1,4 @@
-#include "Test_Cases_main.hpp"
+#include "TestCases.hpp"
 #include "Current_SamplingFunctionality.hpp"
 
 bool SampleRangeReadings(unsigned int Current_Samples[], int Current_Samples_size, int ReadingsCount)
