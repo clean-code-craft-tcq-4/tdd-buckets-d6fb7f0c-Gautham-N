@@ -2,7 +2,6 @@
 #include "catch.h"
 #include <iostream>
 #include "CurrentSamplingModule.h"
-#include "TestCases.h"
 using namespace std;
 
 // As a first step, only considering to detect continuous ranges in the samples
