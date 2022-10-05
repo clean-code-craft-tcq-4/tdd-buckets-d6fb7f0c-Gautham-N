@@ -1,5 +1,5 @@
 #include "TestCases.h"
-#include "Current_SamplingFunctionality.h"
+#include "CurrentSamplingModule.h"
 
 bool SampleRangeReadings(unsigned int Current_Samples[], int Current_Samples_size, int ReadingsCount)
 {
